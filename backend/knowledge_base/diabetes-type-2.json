@@ -1,0 +1,75 @@
+{
+  "id": "diabetes-type-2",
+  "condition": "Type 2 Diabetes Mellitus",
+  "specialty": "Endocrinology & Diabetology",
+  "source_file": "ICMR_STW_Type_2_Diabetes_Mellitus.pdf",
+  "related_lab_markers": [
+    "HbA1c",
+    "Fasting Blood Glucose (FBG)",
+    "Postprandial Blood Glucose (PPBG)",
+    "Urine Albumin to Creatinine Ratio (UACR)",
+    "Serum Creatinine",
+    "Estimated GFR (eGFR)",
+    "Lipid Profile"
+  ],
+  "diagnostic_criteria": [
+    "Fasting Plasma Glucose >= 126 mg/dL (7.0 mmol/L) after minimum 8-hour fast",
+    "Two-hour post-load glucose >= 200 mg/dL (11.1 mmol/L) during Oral Glucose Tolerance Test (OGTT)",
+    "HbA1c >= 6.5% (48 mmol/mol) standardized to NGSP assay",
+    "Random plasma glucose >= 200 mg/dL (11.1 mmol/L) in presence of classic osmotic symptoms"
+  ],
+  "recommended_investigations": [
+    "Fasting and 2-hour postprandial plasma glucose at baseline and follow-up",
+    "Quarterly HbA1c testing until glycemic target is stabilized, then biannually",
+    "Baseline serum creatinine, blood urea, and calculated eGFR",
+    "Annual spot urine for Microalbumin/Creatinine ratio (UACR)",
+    "Fasting lipid profile (Total Cholesterol, LDL-C, HDL-C, Triglycerides) annually",
+    "Annual dilated retinal examination by ophthalmologist",
+    "Comprehensive foot examination including 10g monofilament and vibration sense"
+  ],
+  "lifestyle_precautions": [
+    "Medical Nutrition Therapy: 50-60% calories from complex unrefined carbohydrates with low glycemic index",
+    "Restrict dietary saturated fats to <7% and eliminate trans-fatty acids",
+    "Increase dietary soluble fiber to >30 g/day through legumes, pulses, and green vegetables",
+    "150 minutes per week of moderate-intensity aerobic physical activity (e.g., brisk walking, cycling)",
+    "Target 5-7% weight reduction in overweight or obese patients",
+    "Strict cessation of all tobacco and smoking products"
+  ],
+  "medicines": [
+    {
+      "name": "Metformin Hydrochloride",
+      "purpose": "First-line oral anti-hyperglycemic monotherapy",
+      "notes": "Initiate at 500 mg once or twice daily with meals; titrate gradually up to 2000 mg/day as tolerated. Contraindicated if eGFR < 30 mL/min/1.73m²."
+    },
+    {
+      "name": "Glimepiride",
+      "purpose": "Second-line Sulfonylurea secretagogue for dual oral therapy",
+      "notes": "1 mg to 2 mg once daily before breakfast. Counsel patient regarding signs of hypoglycemia."
+    },
+    {
+      "name": "Teneligliptin",
+      "purpose": "DPP-4 Inhibitor for glycemic control without hypoglycemia risk",
+      "notes": "20 mg once daily with or without food. Suitable across renal impairment stages."
+    },
+    {
+      "name": "Dapagliflozin / Empagliflozin",
+      "purpose": "SGLT2 Inhibitor with cardiorenal protective benefit",
+      "notes": "10 mg once daily. Ensure adequate hydration; monitor for mycotic genital infections."
+    }
+  ],
+  "red_flags_refer_to_doctor": [
+    "Severe hypoglycemia episodes (< 54 mg/dL) with confusion or loss of consciousness",
+    "Suspected Diabetic Ketoacidosis: persistent vomiting, abdominal pain, Kussmaul breathing, ketones in urine",
+    "Hyperosmolar Hyperglycemic State: blood glucose > 600 mg/dL with severe dehydration",
+    "Active diabetic foot ulcer, gangrene, or rapidly spreading soft tissue infection",
+    "Sudden vision deterioration or floaters",
+    "Rapid decline in renal function or persistent heavy proteinuria"
+  ],
+  "follow_up": [
+    "Self-monitoring of blood glucose (SMBG) per individualized schedule",
+    "HbA1c evaluation every 3 months until target (< 7.0%) achieved, then every 6 months",
+    "Clinical review of blood pressure, weight, and treatment adherence every 1-3 months",
+    "Annual screening for nephropathy, retinopathy, and peripheral neuropathy"
+  ]
+}
+

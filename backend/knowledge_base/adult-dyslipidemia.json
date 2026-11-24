@@ -1,0 +1,70 @@
+{
+  "id": "adult-dyslipidemia",
+  "condition": "Adult Dyslipidemia & Cardiovascular Risk Management",
+  "specialty": "Cardiology & Preventive Medicine",
+  "source_file": "ICMR_STW_Adult_Dyslipidemia_ASCVD.pdf",
+  "related_lab_markers": [
+    "Total Cholesterol",
+    "LDL Cholesterol (LDL-C)",
+    "HDL Cholesterol (HDL-C)",
+    "Triglycerides (TG)",
+    "Non-HDL Cholesterol",
+    "Total Cholesterol / HDL Ratio",
+    "Apolipoprotein B (ApoB)"
+  ],
+  "diagnostic_criteria": [
+    "High Risk LDL-C: >= 160 mg/dL without overt ASCVD, or >= 70 mg/dL in patients with established ASCVD or Diabetes",
+    "Hypertriglyceridemia: Fasting serum triglycerides >= 150 mg/dL",
+    "Low HDL-C: < 40 mg/dL in males, < 50 mg/dL in females",
+    "Atherogenic Dyslipidemia: Elevated triglycerides + low HDL-C + elevated small dense LDL particles"
+  ],
+  "recommended_investigations": [
+    "Fasting lipid profile after a 10-12 hour overnight fast",
+    "Liver Function Tests (ALT/AST) and Serum Creatinine prior to statin therapy initiation",
+    "Serum Creatine Phosphokinase (CPK) if muscle pain or myopathy symptoms develop",
+    "Fasting Blood Glucose and HbA1c to screen for concomitant metabolic syndrome",
+    "Thyroid Stimulating Hormone (TSH) to exclude secondary dyslipidemia due to hypothyroidism"
+  ],
+  "lifestyle_precautions": [
+    "Reduction of saturated fatty acid intake to < 7% of daily caloric consumption",
+    "Eliminate vanaspati, dalda, palm oil, and deep-fried bakery snacks containing industrial trans-fats",
+    "Incorporate soluble dietary fiber (oats, isabgol, flaxseed, beans) to bind enterohepatic cholesterol",
+    "Minimum 150 minutes/week of moderate aerobic exercise (brisk walk 30 mins x 5 days/week)",
+    "Attain and sustain body mass index (BMI) < 23 kg/m² and waist circumference < 90 cm (men) / < 80 cm (women)",
+    "Complete cessation of tobacco usage in all smoking and smokeless forms"
+  ],
+  "medicines": [
+    {
+      "name": "Atorvastatin",
+      "purpose": "Moderate to High-intensity HMG-CoA Reductase Inhibitor",
+      "notes": "10 mg to 20 mg once daily at bedtime for primary prevention; 40 mg to 80 mg once daily for high-risk secondary prevention."
+    },
+    {
+      "name": "Rosuvastatin",
+      "purpose": "High-intensity statin therapy for potent LDL reduction",
+      "notes": "5 mg to 10 mg once daily for primary ASCVD prevention; 20 mg once daily for high-risk patients. Monitor renal function in elderly."
+    },
+    {
+      "name": "Fenofibrate",
+      "purpose": "Triglyceride lowering agent (PPAR-alpha agonist)",
+      "notes": "145 mg to 160 mg once daily with meals. Indicated when triglycerides persist > 200 mg/dL after statin optimization. Avoid gemfibrozil with statins."
+    },
+    {
+      "name": "Ezetimibe",
+      "purpose": "Intestinal cholesterol absorption inhibitor",
+      "notes": "10 mg once daily co-administered with statins when LDL-C targets are not achieved on maximum tolerated statin dose."
+    }
+  ],
+  "red_flags_refer_to_doctor": [
+    "New-onset exertional retrosternal chest tightness, squeezing, or pain radiating to left arm or jaw",
+    "Unexplained persistent muscle pain, weakness, tenderness, or brown-colored urine (suspected rhabdomyolysis)",
+    "Severe hypertriglyceridemia (> 500 mg/dL) presenting with acute abdominal pain (risk of acute pancreatitis)",
+    "Uncontrolled jaundice or persistent right upper quadrant abdominal tenderness"
+  ],
+  "follow_up": [
+    "Repeat fasting lipid profile 6-8 weeks following initiation or titration of lipid-lowering therapy",
+    "Annual lipid profile monitoring once therapeutic LDL-C target has been stabilized",
+    "Evaluate treatment adherence and lifestyle compliance at every clinical consultation"
+  ]
+}
+

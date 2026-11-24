@@ -1,0 +1,72 @@
+{
+  "id": "nutritional-anemia",
+  "condition": "Nutritional Anemia in Adults & Reproductive Age",
+  "specialty": "Hematology & Primary Medicine",
+  "source_file": "ICMR_STW_Nutritional_Anemia_Adults.pdf",
+  "related_lab_markers": [
+    "Hemoglobin (Hb)",
+    "Packed Cell Volume (PCV) / Hematocrit",
+    "Mean Corpuscular Volume (MCV)",
+    "Mean Corpuscular Hemoglobin (MCH)",
+    "Mean Corpuscular Hemoglobin Concentration (MCHC)",
+    "Red Cell Distribution Width (RDW)",
+    "Serum Ferritin",
+    "Total Iron Binding Capacity (TIBC)",
+    "Peripheral Blood Smear (PBS)"
+  ],
+  "diagnostic_criteria": [
+    "Hemoglobin < 12.0 g/dL in non-pregnant adult females",
+    "Hemoglobin < 13.0 g/dL in adult males",
+    "Hemoglobin < 11.0 g/dL in pregnant females",
+    "Grading under ICMR criteria: Mild (10.0-11.9 g/dL), Moderate (8.0-9.9 g/dL), Severe (< 8.0 g/dL)",
+    "Microcytic Hypochromic index: MCV < 80 fL and MCH < 27 pg"
+  ],
+  "recommended_investigations": [
+    "Complete Hemogram with automated red cell indices (MCV, MCH, RDW)",
+    "Peripheral blood smear examination for red cell morphology (microcytes, hypochromia, poikilocytosis)",
+    "Serum Ferritin (< 30 ng/mL diagnostic of iron deficiency in non-inflammatory state)",
+    "Stool examination for ova, cysts, and occult blood to exclude intestinal parasitic infestation or gastrointestinal blood loss",
+    "Urine examination for microscopic hematuria in recurrent or unexplained anemia"
+  ],
+  "lifestyle_precautions": [
+    "Increase dietary intake of iron-rich foods: green leafy vegetables, jaggery, germinated pulses, lentils, and animal source proteins where accepted",
+    "Co-ingest Vitamin C rich foods (amla, lemon, guava, citrus fruits) with meals to enhance elemental non-heme iron absorption",
+    "Avoid consuming tea, coffee, milk, or antacids within 1 hour before or after main meals due to tannin and polyphenol inhibition",
+    "Promote personal hygiene, handwashing, and footwear usage to prevent soil-transmitted hookworm re-infection"
+  ],
+  "medicines": [
+    {
+      "name": "Ferrous Ascorbate / Ferrous Sulphate (Oral Elemental Iron)",
+      "purpose": "Primary therapeutic iron repletion",
+      "notes": "100 mg elemental iron + 500 mcg Folic Acid once daily on empty stomach or between meals. Continue for 3 to 6 months to replenish marrow iron stores after Hb normalization."
+    },
+    {
+      "name": "Folic Acid",
+      "purpose": "Cofactor for erythropoiesis & macrocytic prevention",
+      "notes": "5 mg daily orally, co-administered with iron therapy."
+    },
+    {
+      "name": "Albendazole",
+      "purpose": "Mandatory deworming protocol per ICMR national guideline",
+      "notes": "400 mg single oral dose, chewable at bedtime. Repeat after 6 months in endemic regions. Contraindicated in first trimester of pregnancy."
+    },
+    {
+      "name": "Intravenous Iron Sucrose / Ferric Carboxymaltose",
+      "purpose": "Parenteral therapy for severe anemia or oral intolerance",
+      "notes": "Administer calculated Ganzoni dose under emergency institutional supervision for severe anemia in second/third trimester or oral non-compliance."
+    }
+  ],
+  "red_flags_refer_to_doctor": [
+    "Severe anemia (Hemoglobin < 7.0 g/dL) with tachycardia, congestive heart failure signs, or dyspnea at rest",
+    "Anemia in pregnancy with gestational age > 34 weeks requiring urgent parenteral replenishment",
+    "Failure of Hemoglobin to rise by at least 1.0 g/dL after 3-4 weeks of compliant oral iron therapy",
+    "Suspected gastrointestinal bleed (melena, hematemesis, or hematochezia)"
+  ],
+  "follow_up": [
+    "Reticulocyte response assessment at 7-10 days following treatment initiation",
+    "Repeat Hemoglobin measurement at 4 weeks to verify therapeutic response (> 1 g/dL rise)",
+    "Continue maintenance iron therapy for 3 months after Hemoglobin reaches normal reference interval",
+    "Post-treatment counseling on sustaining iron-adequate nutritional intake"
+  ]
+}
+
